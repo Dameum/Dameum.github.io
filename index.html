@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>담음 · Dameum</title>
+<meta name="description" content="담음(Dameum) — AI로 흩어진 것을 제자리에 담습니다.">
+<style>
+  :root {
+    --text: #1a1a1a;
+    --muted: #666;
+    --line: #e5e5e5;
+    --link: #2563eb;
+    --bg: #ffffff;
+    --panel: #f7f8fa;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text: #e8e8e8;
+      --muted: #9a9a9a;
+      --line: #2e2e2e;
+      --link: #7aa7ff;
+      --bg: #16171a;
+      --panel: #1e2024;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo",
+                 "Malgun Gothic", "Noto Sans KR", sans-serif;
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 80px 20px;
+    line-height: 1.75;
+    color: var(--text);
+    background: var(--bg);
+    word-break: keep-all;
+  }
+  h1 { font-size: 2rem; margin: 0 0 4px; letter-spacing: -0.01em; }
+  .en { color: var(--muted); font-size: 0.95rem; letter-spacing: 0.06em; margin: 0 0 28px; }
+  .tagline { font-size: 1.05rem; margin: 0 0 8px; }
+  .philosophy { color: var(--muted); margin: 0 0 48px; }
+  h2 {
+    font-size: 0.82rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin: 48px 0 14px;
+    font-weight: 600;
+  }
+  .app {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 18px 20px;
+  }
+  .app-name { font-weight: 600; margin-bottom: 4px; }
+  .app-desc { color: var(--muted); font-size: 0.95rem; margin-bottom: 10px; }
+  .app-links { font-size: 0.9rem; }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  footer {
+    margin-top: 64px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+    font-size: 0.88rem;
+  }
+</style>
+</head>
+<body>
+
+<h1>담음</h1>
+<p class="en">DAMEUM</p>
+
+<p class="tagline">흩어진 것을 제자리에 담습니다.</p>
+<p class="philosophy">
+  정보는 넘치고 정리할 시간은 부족합니다. 담음은 AI가 사람을 대신해 답을 내는 대신,
+  사람이 이미 가진 것을 정리해 주는 도구를 만듭니다.
+</p>
+
+<h2>앱</h2>
+<div class="app">
+  <div class="app-name">Tap &amp; Pop AI</div>
+  <div class="app-desc">어떤 앱에서든 텍스트를 선택하면 바로 실행되는 AI 도구 모음. 질문·번역·교정·일정 등록까지.</div>
+  <div class="app-links">
+    <a href="./tap-pop-ai/privacy/">개인정보처리방침</a>
+  </div>
+</div>
+
+<footer>
+  문의: <a href="mailto:jin970512@gmail.com">jin970512@gmail.com</a>
+</footer>
+
+</body>
+</html>
