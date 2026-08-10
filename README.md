@@ -1,7 +1,6 @@
 # Dameum.github.io
 
-담음(Dameum) 공식 사이트. **이 저장소는 public이어야 합니다** (GitHub Pages 무료 플랜 요건).
-앱 소스 코드는 여기 두지 마세요 — 별도의 private 저장소를 사용합니다.
+담음(Dameum) 공식 사이트.
 
 ## 구조
 
