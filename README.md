@@ -1,6 +1,6 @@
 # Dameum.github.io
 
-담음(Dameum) 공식 사이트.
+더담음(TheDameum) 공식 사이트.
 
 ## 구조
 
