@@ -6,20 +6,20 @@
 
 ```
 .
-├── index.html                        https://Thedameum.github.io/
-├── app-ads.txt                       https://Thedameum.github.io/app-ads.txt
+├── index.html                        https://TheDameum.github.io/
+├── app-ads.txt                       https://TheDameum.github.io/app-ads.txt
 └── tap-pop-ai/
     └── privacy/
-        └── index.html                https://Thedameum.github.io/tap-pop-ai/privacy/
+        └── index.html                https://TheDameum.github.io/tap-pop-ai/privacy/
 ```
 
 ## 주요 URL
 
 | 용도 | URL | 쓰이는 곳 |
 |---|---|---|
-| 개인정보처리방침 | `https://Thedameum.github.io/tap-pop-ai/privacy/` | Play Console > 앱 콘텐츠 |
-| 개발자 웹사이트 | `https://Thedameum.github.io/` | Play Console > 스토어 등록정보 |
-| app-ads.txt | `https://Thedameum.github.io/app-ads.txt` | AdMob 광고 단가 인증 |
+| 개인정보처리방침 | `https://TheDameum.github.io/tap-pop-ai/privacy/` | Play Console > 앱 콘텐츠 |
+| 개발자 웹사이트 | `https://TheDameum.github.io/` | Play Console > 스토어 등록정보 |
+| app-ads.txt | `https://TheDameum.github.io/app-ads.txt` | AdMob 광고 단가 인증 |
 
 ## app-ads.txt 확인 사항
 
