@@ -1,4 +1,4 @@
-# Dameum.github.io
+# TheDameum.github.io
 
 더담음(TheDameum) 공식 사이트.
 
